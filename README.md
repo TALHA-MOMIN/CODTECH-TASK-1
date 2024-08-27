@@ -20,3 +20,5 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
 •	**Pandas** : Used for data manipulation and analysis.
 •	**Matplotlib** : Employed for crating static , animated and interactive visualizations.
 •	**Seaborn** : Utilised for making statistical graphics that are informed and attractive.
+
+**Conclusion:** The Exploratory Data Analysis (EDA) on Haberman's Survival Dataset reveals that age, year of operation, and the number of positive lymph nodes are critical factors influencing patient survival. The data suggests that younger patients and those with fewer positive lymph nodes generally have better survival outcomes.
